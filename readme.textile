@@ -1,0 +1,3 @@
+h1. jQuery Stopwatch
+
+A simple stopwatch plug-in for jQuery-supports multiple stopwatches per page.
